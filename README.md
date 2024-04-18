@@ -25,3 +25,6 @@ This was one of the projects for my .NET Programming classes. It's a simple cons
 
 
 ## **Video sample**
+
+https://github.com/4veti/Sixteen_Segment_Display/assets/37193765/9300ede6-5f5a-4af6-acce-dae2d81be5b3
+
